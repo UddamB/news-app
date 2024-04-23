@@ -1,4 +1,4 @@
   # command Netlify CLI will run to build
-  command = "npm run dev" 
+  command = "npm run build" 
   # Directory it will publish
-  publish = "dev"
+  publish = "build"
