@@ -6,7 +6,9 @@
 ## Description
 Find the latest news headlines all in one app. The news mag app brings all the trending news headline articles to make staying up to date easy and convenient. Simply browse your interests using the navigation bar at the top to get to know what's happening.
 
-Uses the Google News API to fetch trending news articles in the US and data (image, url, info) from these articles are stored and mapped to the front-end; uses Bootstrap for UI, including a navigaton bar and a card format for displaying each headline 
+Uses the Google News API to fetch trending news articles in the US and data (image, url, info) from these articles are stored and mapped to the front-end; uses Bootstrap for UI, including a navigaton bar and a card format for displaying each headline.
+
+*Note: Since May 22 2020, Google News API changed the liberties of the free developer keys and now they reject any request using that key that is not coming from localhost. You need to buy one of the keys intended for projects on production, but the keys are free when hosted locally.*
 
 ## Tech Stack
 
